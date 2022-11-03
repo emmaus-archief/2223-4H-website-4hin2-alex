@@ -61,12 +61,12 @@ p {
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color: skyblue;
+      color: red;
 }
 
 .smalltext {
     text-align: center;
-    font-size: 0.7em;
+    font-size: 15px;
 }
 
 a {
@@ -84,7 +84,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #ddd;
     overflow: hidden;
 }
 
@@ -101,16 +101,22 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
-}
-
-nav li a.active {
     background-color:skyblue;
 }
 
-#hoofdtitel {
+nav li a.active {
+    background-color:#ddd;
+}
+
+
+.active {
   color:red;
 }
-.active {
+
+.opstelling {
+  color:red;
+}
+
+.informatie {
   color:red;
 }
