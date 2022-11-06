@@ -109,7 +109,7 @@ nav li a.active {
 }
 
 
-.active {
+.trofeeën {
   color:red;
 }
 
@@ -118,5 +118,21 @@ nav li a.active {
 }
 
 .informatie {
+  color:red;
+}
+
+.home {
+  color:redl;
+}
+
+.active {
+  color:red
+}
+
+.clublegendes {
+  color:red;
+}
+
+.geschiedenis {
   color:red;
 }
