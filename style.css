@@ -136,3 +136,24 @@ nav li a.active {
 .geschiedenis {
   color:red;
 }
+
+.clublegendes-tekst-inleiding {
+  margin-bottom:15px;
+}
+.clublegende-box {
+  
+}
+.clublegende-plaatje {
+  width:250px;
+  margin:10px;
+}
+.clublegende-tekst {
+
+  width:430px;
+  padding:5px;
+  float:right;
+}
+
+.clublegende-naam {
+  font-weight:bold;
+}
