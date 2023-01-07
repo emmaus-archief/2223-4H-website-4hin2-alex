@@ -144,22 +144,29 @@ nav li a.active {
 .clublegende-plaatje {
   width:250px;
   margin:8px;
+  
 }
 .clublegende-tekst {
 
   width:430px;
   padding:5px;
   float:right;
-  
+  margin-right:800px; 
 }
 
 .clublegende-naam {
   font-weight:bold;
-   
- 
-  }
+    }
 
 .h2-clublegendes {
   color:black;
 }
 
+.page-clublegendes {
+  width: 1500px;                   
+  margin: 10px auto; 
+}
+
+.clublegende-inleiding {
+  margin:8px;
+}
