@@ -178,3 +178,16 @@ nav li a.active {
   
   
 }
+
+.page-opstelling{
+   width: 1500px;    
+  margin: 10px auto;   
+  
+}
+
+.voetbalveld {
+  width:350px;
+  height:450px;
+  margin-left:200px;
+  margin-top:20px
+}
